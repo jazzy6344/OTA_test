@@ -70,7 +70,5 @@ void setup() {
 
 void loop() {
  digitalWrite(4,HIGH);
- delay(1500);
- digitalWrite(4,LOW);
- delay(1500);
+ 
 }
